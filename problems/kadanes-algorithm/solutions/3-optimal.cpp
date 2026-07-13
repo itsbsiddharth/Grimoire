@@ -1,6 +1,7 @@
 // Kadane's Algorithm — Optimal
-// TODO: paste your best submission for this approach.
-// Delete this file if you don't have a separate optimal solution.
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
@@ -14,6 +15,11 @@ public:
      return maxsum;
     }
 };
+
+int main(){
+    return 0;
+}
+
 /*
 
 */
