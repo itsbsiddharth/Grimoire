@@ -1,6 +1,4 @@
 // Kadane's Algorithm — Optimal
-#include <bits/stdc++.h>
-using namespace std;
 
 class Solution {
 public:
@@ -15,10 +13,6 @@ public:
      return maxsum;
     }
 };
-
-int main(){
-    return 0;
-}
 
 /*
 
